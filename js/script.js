@@ -11,4 +11,6 @@ var firstName = "Phirom Yim";//String Variable in "  "
 var phrase = "I don't know"; //don't use single quote, it could confuse machine
 //but if you use singe quotations ' ' use \ i.e. don\t
 //new line character \n
-
+console.log(firstName);
+console.log (age);
+console.log(isStudent);
